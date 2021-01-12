@@ -6,6 +6,6 @@ Introduction to computer fundamentals; contemporary topics, such as security and
 Course Hours:  
 3 units; (3-2T)  
 
-Instructor: Eric Eidelberg
-TA:
+Instructor: Eric Eidelberg  
+TA:  
 Overall grade: A
